@@ -30,7 +30,7 @@ from barometer import *
 
 @barometer
 def print_two_strings(s1, s2):
-    print(DEBUG, f"Concatenating {s1} and {s2}})        # Add a debug level message
+    print(DEBUG, f"Concatenating {s1} and {s2})        # Add a debug level message
     try:
         result = s1 + s2
     except TypeError:
