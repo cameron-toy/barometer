@@ -1,4 +1,4 @@
-#Barometer
+# Barometer
 
 Barometer is a Python library that combines the simple thrill of logging with print
 statements with the deep satisfaction of logging with a library.
